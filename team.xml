@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="14.0.2" class="java.beans.XMLDecoder">
+ <array class="TeamStats" length="8">
+  <void index="0">
+   <object class="TeamStats" id="TeamStats0">
+    <void class="TeamStats" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="TeamStats0"/>
+      <string>CSK</string>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>totalmatch</string>
+     <void method="set">
+      <object idref="TeamStats0"/>
+      <int>15</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>wins</string>
+     <void method="set">
+      <object idref="TeamStats0"/>
+      <int>12</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>points</string>
+     <void method="set">
+      <object idref="TeamStats0"/>
+      <float>80.0</float>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="TeamStats" id="TeamStats1">
+    <void class="TeamStats" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="TeamStats1"/>
+      <string>MI</string>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>totalmatch</string>
+     <void method="set">
+      <object idref="TeamStats1"/>
+      <int>15</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>wins</string>
+     <void method="set">
+      <object idref="TeamStats1"/>
+      <int>11</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>points</string>
+     <void method="set">
+      <object idref="TeamStats1"/>
+      <float>73.333336</float>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="TeamStats" id="TeamStats2">
+    <void class="TeamStats" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="TeamStats2"/>
+      <string>SRH</string>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>totalmatch</string>
+     <void method="set">
+      <object idref="TeamStats2"/>
+      <int>14</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>wins</string>
+     <void method="set">
+      <object idref="TeamStats2"/>
+      <int>10</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>points</string>
+     <void method="set">
+      <object idref="TeamStats2"/>
+      <float>71.42857</float>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="TeamStats" id="TeamStats3">
+    <void class="TeamStats" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="TeamStats3"/>
+      <string>DC</string>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>totalmatch</string>
+     <void method="set">
+      <object idref="TeamStats3"/>
+      <int>16</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>wins</string>
+     <void method="set">
+      <object idref="TeamStats3"/>
+      <int>10</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>points</string>
+     <void method="set">
+      <object idref="TeamStats3"/>
+      <float>64.28571</float>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="4">
+   <object class="TeamStats" id="TeamStats4">
+    <void class="TeamStats" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="TeamStats4"/>
+      <string>DD</string>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>totalmatch</string>
+     <void method="set">
+      <object idref="TeamStats4"/>
+      <int>15</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>wins</string>
+     <void method="set">
+      <object idref="TeamStats4"/>
+      <int>9</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>points</string>
+     <void method="set">
+      <object idref="TeamStats4"/>
+      <float>60.0</float>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="5">
+   <object class="TeamStats" id="TeamStats5">
+    <void class="TeamStats" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="TeamStats5"/>
+      <string>KXIIP</string>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>totalmatch</string>
+     <void method="set">
+      <object idref="TeamStats5"/>
+      <int>16</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>wins</string>
+     <void method="set">
+      <object idref="TeamStats5"/>
+      <int>8</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>points</string>
+     <void method="set">
+      <object idref="TeamStats5"/>
+      <float>53.333332</float>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="6">
+   <object class="TeamStats" id="TeamStats6">
+    <void class="TeamStats" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="TeamStats6"/>
+      <string>RCB</string>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>totalmatch</string>
+     <void method="set">
+      <object idref="TeamStats6"/>
+      <int>14</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>wins</string>
+     <void method="set">
+      <object idref="TeamStats6"/>
+      <int>7</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>points</string>
+     <void method="set">
+      <object idref="TeamStats6"/>
+      <float>50.0</float>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="7">
+   <object class="TeamStats" id="TeamStats7">
+    <void class="TeamStats" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="TeamStats7"/>
+      <string>KKR</string>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>totalmatch</string>
+     <void method="set">
+      <object idref="TeamStats7"/>
+      <int>17</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>wins</string>
+     <void method="set">
+      <object idref="TeamStats7"/>
+      <int>7</int>
+     </void>
+    </void>
+    <void class="TeamStats" method="getField">
+     <string>points</string>
+     <void method="set">
+      <object idref="TeamStats7"/>
+      <float>43.75</float>
+     </void>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>
